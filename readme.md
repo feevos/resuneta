@@ -18,7 +18,7 @@ This repository contains source code for some of the models used in the manuscri
 ### Directory Structure
 
 Complete models live in the ```models``` directory, specifically models d6 and d7 (conditioned multitasking). 
-These are built from modules that are alive in ```resuneta/nn``` directory. The Tanimoto loss function (with complement) is defined in file ```resuneta/nn/loss/loss.py```  Inference demo (```.ipynb```) can be found in directory demo. Currently, we do not provide pre-trained weights (will do so in the immediate future). Directory ```nn`` contains all necessary modules for building resuneta models. Directort ```src``` is related to dataset definitions. In addition, file src/chopchop_run.py is an executable that produces slices of patches in size 256x256 from the original data. Please see the source code for modifications based on your directory structures. 
+These are built from modules that are alive in ```resuneta/nn``` directory. The Tanimoto loss function (with complement) is defined in file ```resuneta/nn/loss/loss.py```  Inference demo (```.ipynb```) can be found in directory demo. Currently, we do not provide pre-trained weights (will do so in the immediate future). Directory ```nn``` contains all necessary modules for building resuneta models. Directort ```src``` is related to dataset definitions. In addition, file src/chopchop_run.py is an executable that produces slices of patches in size 256x256 from the original data. Please see the source code for modifications based on your directory structures. 
 
 ```
 ├── demo
