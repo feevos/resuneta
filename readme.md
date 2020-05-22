@@ -75,22 +75,16 @@ As a condition of this licence, you agree that where you make any adaptations, m
 If you find the contents of this repository useful for your research, please cite: 
 
 ```
-@article{DBLP:journals/corr/abs-1904-00592,
-  author    = {Foivos I. Diakogiannis and
-               Fran{\c{c}}ois Waldner and
-               Peter Caccetta and
-               Chen Wu},
-  title     = {ResUNet-a: a deep learning framework for semantic segmentation of
-               remotely sensed data},
-  journal   = {CoRR},
-  volume    = {abs/1904.00592},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1904.00592},
-  archivePrefix = {arXiv},
-  eprint    = {1904.00592},
-  timestamp = {Wed, 24 Apr 2019 12:21:25 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1904-00592},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+￼@article{DIAKOGIANNIS202094,
+title = "ResUNet-a: A deep learning framework for semantic segmentation of remotely sensed data",
+journal = "ISPRS Journal of Photogrammetry and Remote Sensing",
+volume = "162",
+pages = "94 - 114",
+year = "2020",
+issn = "0924-2716",
+doi = "https://doi.org/10.1016/j.isprsjprs.2020.01.013",
+url = "http://www.sciencedirect.com/science/article/pii/S0924271620300149",
+author = "Foivos I. Diakogiannis and François Waldner and Peter Caccetta and Chen Wu",
+keywords = "Convolutional neural network, Loss function, Architecture, Data augmentation, Very high spatial resolution"
 }
-￼
 ```
